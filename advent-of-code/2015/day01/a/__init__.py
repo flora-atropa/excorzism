@@ -1,3 +1,3 @@
-from .main import find_floor
+from .main import solve
 
-__all__ = ["find_floor"]
+__all__ = ["solve"]

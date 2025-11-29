@@ -1,10 +1,10 @@
-# Advent of Code 2015
+# Advent of Code 2016
 
-This directory contains flora's solutions for the [AoC2015](https://adventofcode.com/2015)
+This directory contains flora's solutions for the [AoC2016](https://adventofcode.com/2016)
 
 ## Solved
 
--[x] Day 01
+-[ ] Day 01
 -[ ] Day 02
 -[ ] Day 03
 -[ ] Day 04

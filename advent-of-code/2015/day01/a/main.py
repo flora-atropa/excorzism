@@ -11,3 +11,6 @@ def find_floor(instruction: str) -> int:
     floor: int = 0 + left_parenthesis_count - right_parenthesis_count
 
     return floor
+
+def solve(challenge: str) -> int:
+    return find_floor(challenge)
