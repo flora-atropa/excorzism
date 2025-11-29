@@ -1,3 +1,3 @@
-from .main import find_basement_entry
+from .main import solve
 
-__all__ = ["find_basement_entry"]
+__all__ = ["solve"]

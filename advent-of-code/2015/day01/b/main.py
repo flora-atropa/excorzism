@@ -1,6 +1,3 @@
-from typing import Union
-
-
 def parse_parenthesis(instruction: str) -> int:
     if instruction == "(":
         return 1
@@ -25,3 +22,6 @@ def find_basement_entry(instructions: str) -> int:
         instruction_count += 1
 
     return instruction_count
+
+def solve(challenge: str) -> int:
+    return find_basement_entry(challenge)
