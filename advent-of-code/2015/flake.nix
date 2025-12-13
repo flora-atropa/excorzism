@@ -25,6 +25,7 @@
           buildInputs = with pkgs; [
             python3
             uv
+            nushell
           ];
         };
       }

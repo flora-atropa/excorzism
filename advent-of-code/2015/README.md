@@ -5,8 +5,8 @@ This directory contains flora's solutions for the [AoC2015](https://adventofcode
 ## Solved
 
 - [x] Day 01
-- [ ] Day 02
-- [ ] Day 03
+- [x] Day 02
+- [x] Day 03
 - [ ] Day 04
 - [ ] Day 05
 - [ ] Day 06
